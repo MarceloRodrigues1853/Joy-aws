@@ -1,4 +1,4 @@
-# Joy-aws
+# TalentoCloud Proz+AWS
 
 Este é o meu repositório pessoal, dedicado à trilha de front-end do curso TalentoCloud da PROZ+AWS. Aqui, armazeno os exercícios e desafios de código propostos ao longo do curso, proporcionando um espaço para prática e aprimoramento contínuo das minhas habilidades em programação front-end e cloud computing.
 
